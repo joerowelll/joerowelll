@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔨What I'm up to 
 🌱 I’m currently studying Computer Science, [MSc Robotics and Computation](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-and-computation-msc) at [University College London](https://www.ucl.ac.uk/). \
 Modules studied: \
 -[COMP0137 Machine Vision](https://www.ucl.ac.uk/module-catalogue/modules/machine-vision/COMP0137) \
