@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently studying [MSc Robotics and Computation](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-and-computation-msc) at [University College London](https://www.ucl.ac.uk/). \
+🌱 I’m currently studying Computer Science, [MSc Robotics and Computation](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-and-computation-msc) at [University College London](https://www.ucl.ac.uk/). \
 Modules studied: \
 -[COMP0137 Machine Vision](https://www.ucl.ac.uk/module-catalogue/modules/machine-vision/COMP0137) \
 -[COMP0128 Robotic Control Theory and Systems](https://www.ucl.ac.uk/module-catalogue/modules/robotic-control-theory-and-systems/COMP0128) \
@@ -22,3 +22,6 @@ Modules studied: \
 -[COMP0088 Introduction to Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-machine-learning/COMP0088) \
 -[COMP0075 Financial Market Modelling and Analysis](https://www.ucl.ac.uk/module-catalogue/modules/financial-market-modelling-and-analysis/COMP0075) \
 -[COMP0132 Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-robotics-and-computation-dissertation/COMP0132) 
+
+
+My background is in [BEng Biomedical Engineering](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) at [King's College London](https://www.kcl.ac.uk/), achieving a First Class Honors.
