@@ -22,6 +22,8 @@ Modules studied: \
 -[COMP0127 Robotic Systems Engineering](https://www.ucl.ac.uk/module-catalogue/modules/robotic-systems-engineering/COMP0127) \
 -[COMP0088 Introduction to Machine Learning](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-machine-learning/COMP0088) \
 -[COMP0075 Financial Market Modelling and Analysis](https://www.ucl.ac.uk/module-catalogue/modules/financial-market-modelling-and-analysis/COMP0075) \
+-[COMP0129 Robotic Sensing, Manipulation and Interaction](https://www.ucl.ac.uk/module-catalogue/modules/robotic-sensing-manipulation-and-interaction/COMP0129)
+-[COMP0130 Robotic Vision and Navigation](https://www.ucl.ac.uk/module-catalogue/modules/robot-vision-and-navigation/COMP0130)
 -[COMP0132 Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-robotics-and-computation-dissertation/COMP0132) 
 
 
