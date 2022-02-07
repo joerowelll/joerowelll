@@ -24,6 +24,7 @@ Modules studied: \
 -[COMP0075 Financial Market Modelling and Analysis](https://www.ucl.ac.uk/module-catalogue/modules/financial-market-modelling-and-analysis/COMP0075) \
 -[COMP0129 Robotic Sensing, Manipulation and Interaction](https://www.ucl.ac.uk/module-catalogue/modules/robotic-sensing-manipulation-and-interaction/COMP0129) \
 -[COMP0130 Robotic Vision and Navigation](https://www.ucl.ac.uk/module-catalogue/modules/robot-vision-and-navigation/COMP0130) \
--[COMP0132 Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-robotics-and-computation-dissertation/COMP0132) 
+-[COMP0132 Dissertation](https://www.ucl.ac.uk/module-catalogue/modules/msc-robotics-and-computation-dissertation/COMP0132) \
+and I am auditing [DeepMind x UCL](https://deepmind.com/learning-resources/reinforcement-learning-series-2021) Lecture series in Reinforcement Learning.\
 
 My background is in [BEng Biomedical Engineering](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) at [King's College London](https://www.kcl.ac.uk/), achieving a First Class Honors.
