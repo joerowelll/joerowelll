@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔨What I'm up to 
-🌱 I’m currently studying Computer Science, [MSc Robotics and Computation](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-and-computation-msc) at [University College London](https://www.ucl.ac.uk/). \
+I'm currently studying [DPhil (PhD) Engineering Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-engineering-science) at the University of Oxford, [Oxford Robotics Institute](https://ori.ox.ac.uk/).
 
-My background is in [BEng Biomedical Engineering](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) at [King's College London](https://www.kcl.ac.uk/), achieving a First Class Honors.
+My background is in [MSc Robotics and Computation](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/robotics-and-computation-msc) at [University College London](https://www.ucl.ac.uk/) & [BEng Biomedical Engineering](https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-engineering-beng) at [King's College London](https://www.kcl.ac.uk/), achieving a First Class Honors.
